@@ -18,7 +18,7 @@
 - Sistemas offline com sincronização
 
 🌎 Site: https://multiappbrasil.tec.br  
-📱 WhatsApp: https://wa.me/5527996485114  
+📱 WhatsApp: https://wa.me/5527996485114
 
 ---
 
@@ -39,18 +39,10 @@
 
 ---
 
-## 🔥 Sequência de commits
+## 🐍 Minhas contribuições
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bruno2021moura-create&theme=radical&hide_border=true" />
-</p>
-
----
-
-## 📈 Gráfico de contribuições
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruno2021moura-create&theme=react-dark&hide_border=true" width="100%"/>
+  <img src="https://raw.githubusercontent.com/bruno2021moura-create/bruno2021moura-create/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 ---
@@ -70,20 +62,7 @@
 ✔ Funciona offline  
 ✔ Integração com hardware real  
 ✔ Alta performance  
-✔ Sistema escalável  
-
----
-
-## 🏆 Resumo de atividade
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruno2021moura-create&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bruno2021moura-create&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruno2021moura-create&theme=github_dark&utcOffset=-3" />
-</p>
+✔ Sistema escalável
 
 ---
 
