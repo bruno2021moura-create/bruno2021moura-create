@@ -1,6 +1,6 @@
 # 🚀 Multiapp Brasil
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=28&center=true&vCenter=true&width=800&lines=Sistemas+para+Delivery+e+PDV;Automação+Comercial+Completa;Integração+com+PIX+e+Balança;Soluções+para+Restaurantes" />
+<img src="https://readme-typing-svg.herokuapp.com?color=1E90FF&size=28&center=true&vCenter=true&width=800&lines=Sistemas+para+Delivery+e+PDV;Automação+Comercial+Completa;Integração+com+PIX+e+Balança;Soluções+para+Restaurantes" />
 
 ---
 
@@ -82,7 +82,7 @@
 ## 👀 Visualizações
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bruno2021moura-create&color=red" />
+  <img src="https://komarev.com/ghpvc/?username=bruno2021moura-create&color=blue" />
 </p>
 
 ---
