@@ -17,35 +17,40 @@
 - PIX automático (Efí)
 - Sistemas offline com sincronização
 
-🌎 Site: https://multiappbrasil.tec.br/sistemas
+🌎 Site: https://multiappbrasil.tec.br  
 📱 WhatsApp: https://wa.me/5527996485114  
 
 ---
 
 ## 🚀 Tecnologias
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=php,js,nodejs,electron,react,mysql,sqlite,git,github" />
 </p>
 
 ---
 
-## 📊 Estatísticas
+## 📊 Estatísticas do GitHub
 
 <div align="center">
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno2021moura-create&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno2021moura-create&layout=compact&theme=radical"/>
-
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno2021moura-create&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno2021moura-create&layout=compact&theme=radical"/>
 </div>
 
 ---
 
-## 🔥 Streak (dias programando)
+## 🔥 Sequência de commits
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bruno2021moura-create&theme=radical&hide_border=true" />
+</p>
+
+---
+
+## 📈 Gráfico de contribuições
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bruno2021moura-create&theme=react-dark&hide_border=true" width="100%"/>
 </p>
 
 ---
@@ -66,6 +71,19 @@
 ✔ Integração com hardware real  
 ✔ Alta performance  
 ✔ Sistema escalável  
+
+---
+
+## 🏆 Resumo de atividade
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bruno2021moura-create&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bruno2021moura-create&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bruno2021moura-create&theme=github_dark&utcOffset=-3" />
+</p>
 
 ---
 
