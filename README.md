@@ -17,7 +17,7 @@
 - PIX automático (Efí)
 - Sistemas offline com sincronização
 
-🌎 Site: https://multiappbrasil.tec.br  
+🌎 Site: https://multiappbrasil.tec.br/sistemas
 📱 WhatsApp: https://wa.me/5527996485114  
 
 ---
